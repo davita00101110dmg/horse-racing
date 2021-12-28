@@ -1,5 +1,5 @@
 # horse-racing
-# horse-racing
-# horse-racing
-# horse-racing
-# horse-racing
+horse racing is a small game written in python module "pygame" 
+Each horse rider has its own name and number
+Keep pressing "space" untill any of the horses reach the finish line
+![image](https://user-images.githubusercontent.com/75265099/147592513-89b9a737-387d-422a-8370-afda6c5c0636.png)
